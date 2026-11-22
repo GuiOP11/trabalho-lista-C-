@@ -1,0 +1,14 @@
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\bin\Debug\net10.0\Gerenciador_Tarefas.exe
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\bin\Debug\net10.0\Gerenciador_Tarefas.deps.json
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\bin\Debug\net10.0\Gerenciador_Tarefas.runtimeconfig.json
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\bin\Debug\net10.0\Gerenciador_Tarefas.dll
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\bin\Debug\net10.0\Gerenciador_Tarefas.pdb
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.AssemblyInfoInputs.cache
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.AssemblyInfo.cs
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.dll
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\refint\Gerenciador_Tarefas.dll
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.pdb
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\Gerenciador_Tarefas.genruntimeconfig.cache
+C:\Users\deoli\OneDrive\Área de Trabalho\trabalhoEstruturaDeDados\Gerenciador_Tarefas\obj\Debug\net10.0\ref\Gerenciador_Tarefas.dll
